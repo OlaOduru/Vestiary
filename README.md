@@ -5,7 +5,7 @@ Vestiary is a personal project aimed at building a modern, intelligent clothing 
 
 ---
 
-## 🚀 Features (MVP)
+## 🚀 Features
 - 📸 **Track Clothes** – Add clothes to your closet and wishlist using photos, tags, or links.
 - 🧩 **Create Outfits** – Combine items to save and view complete looks.
 - ⚙️ **Generate Outfits** – Automatically suggest combinations based on style, weather, or context. (Soon)
